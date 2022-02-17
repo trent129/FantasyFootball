@@ -6,4 +6,7 @@ This is an ETL example of requesting data from the ESPN API Endpoints to create 
 After transforming, the created excel sheet is loaded into the dashboard sheet via formulas and linked sheets, and subsequently creates additional metrics to rank and track performance over time. This project intially started off as just a manual entry excel sheet, but I have been developing it overtime to create an automated dashboard that adds more context and excitement to the league.  There are more phases to be developed, and it is a passion project I enjoy building up. Any suggestions or comments are welcomed to improve this project! 
 
 
+The season history tab code is still being added, but is available at https://drive.google.com/drive/folders/1Cx6e7MHdRN6cq896XFr0RBkNVAcFQXAP?usp=sharing.
+
+
 Watch this video for an example of the output! https://vimeo.com/506913118#
